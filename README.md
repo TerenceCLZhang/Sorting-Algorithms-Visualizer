@@ -21,6 +21,7 @@ An interactive tool built with Python and Tkinter to help visualize how differen
 - Comb Sort
 - Cocktail Shaker Sort
 - Odd Even Sort
+- Bubble Sort
 - Insertion Sort
 - Gnome Sort
 - Selection Sort
