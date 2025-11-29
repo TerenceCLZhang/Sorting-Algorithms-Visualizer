@@ -29,6 +29,7 @@ ALGORITHMS = {
     "Shell Sort": shell_sort,
     "Comb Sort": comb_sort,
     "Cocktail Shaker Sort": cocktail_shaker_sort,
+    "Bubble Sort": bubble_sort,
     "Odd Even Sort": odd_even_sort,
     "Insertion Sort": insertion_sort,
     "Gnome Sort": gnome_sort,
